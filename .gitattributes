@@ -8,3 +8,4 @@
 *.sql linguist-language=MATLAB
 *.uml linguist-language=MATLAB
 *.cmd linguist-language=MATLAB
+*.m linguist-language=MATLAB

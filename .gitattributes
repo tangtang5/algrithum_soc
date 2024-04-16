@@ -1,0 +1,10 @@
+
+*.md linguist-language=MATLAB
+*.yml linguist-language=MATLAB
+*.html linguist-language=MATLAB
+*.js linguist-language=MATLAB
+*.xml linguist-language=MATLAB
+*.css linguist-language=MATLAB
+*.sql linguist-language=MATLAB
+*.uml linguist-language=MATLAB
+*.cmd linguist-language=MATLAB
